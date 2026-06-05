@@ -1,7 +1,7 @@
 # CNY/USD Exchange Rate Volatility Modeling
 ## ARIMA–GARCH Analysis · R & Minitab
 
-[📄 View Report](https://github.com/skyexry/cnyusd-volatility-modeling/blob/main/Report 2.pdf)
+[📄 View Report](https://github.com/skyexry/cnyusd-volatility-modeling/blob/main/Report.pdf)
 
 End-to-end volatility analysis of the daily Chinese Yuan to U.S. Dollar
 spot exchange rate, combining ARIMA mean modeling (Minitab) with
